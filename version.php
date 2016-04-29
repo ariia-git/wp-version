@@ -1,6 +1,6 @@
         /////////////////////////////////////////////////////////////////////////////////
         // version function BEGIN ///////////////////////////////////////////////// +__+
-        // usage: version(PATH_TO_SCRIPT , VERSION_NUM) 
+        // usage: $version(PATH_TO_SCRIPT , VERSION_NUM) 
         // if VERSION_NUM is set to 0 then the last modified time will return
         // allowing for automatic versioning as files are updated with WP.
         // Version can be manually added by setting VERSION_NUM to a numeric value.
